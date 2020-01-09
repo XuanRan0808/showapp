@@ -1,0 +1,19 @@
+res path mapping:
+    res/drawable-hdpi-v4 -> r/a
+    res/drawable-mdpi-v4 -> r/b
+    res/layout -> r/c
+    res/drawable-xhdpi-v4 -> r/d
+    res/drawable-xxhdpi-v4 -> r/e
+
+
+res id mapping:
+    com.mycompany.myapp2.R.drawable.ic_launcher -> com.mycompany.myapp2.R.drawable.a
+    com.mycompany.myapp2.R.layout.item_main -> com.mycompany.myapp2.R.layout.a
+    com.mycompany.myapp2.R.layout.main -> com.mycompany.myapp2.R.layout.b
+    com.mycompany.myapp2.R.string.app_name -> com.mycompany.myapp2.R.string.a
+    com.mycompany.myapp2.R.string.hello_world -> com.mycompany.myapp2.R.string.b
+    com.mycompany.myapp2.R.style.AppTheme -> com.mycompany.myapp2.R.style.a
+    com.mycompany.myapp2.R.id.iv_item_icon -> com.mycompany.myapp2.R.id.a
+    com.mycompany.myapp2.R.id.tv_item_name -> com.mycompany.myapp2.R.id.b
+    com.mycompany.myapp2.R.id.packagename -> com.mycompany.myapp2.R.id.c
+    com.mycompany.myapp2.R.id.lv_main -> com.mycompany.myapp2.R.id.d
